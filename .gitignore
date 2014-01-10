@@ -8,4 +8,6 @@ __*
 .sass-cache
 
 # Directories
+docpad/*
 docpad/node_modules
+docpad/src
