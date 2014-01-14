@@ -2,12 +2,15 @@
 __*
 
 # Temporary or system files
+package.json
+config.rb
 *.swp
 ._*
 .DS_Store
 .sass-cache
 
 # Directories
+node_modules/*
 docpad/*
 docpad/node_modules
 docpad/src
